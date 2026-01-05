@@ -1,0 +1,53 @@
+{
+    "top_n_overall": [
+        {
+            "file": "/tmp/kavia/workspace/code-generation/food-blog-showcase-6829-6838/frontend_react_app/.gitignore",
+            "count": 108
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/food-blog-showcase-6829-6838/frontend_react_app/post_process_status.lock",
+            "count": 22
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/food-blog-showcase-6829-6838/frontend_react_app/eslint.config.mjs",
+            "count": 16
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/food-blog-showcase-6829-6838/frontend_react_app/package.json",
+            "count": 5
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/food-blog-showcase-6829-6838/frontend_react_app/README.md",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/food-blog-showcase-6829-6838/frontend_react_app/src/App.css",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/food-blog-showcase-6829-6838/frontend_react_app/src/App.js",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/food-blog-showcase-6829-6838/frontend_react_app/src/App.test.js",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/food-blog-showcase-6829-6838/frontend_react_app/src/index.css",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/food-blog-showcase-6829-6838/frontend_react_app/src/index.js",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/food-blog-showcase-6829-6838/frontend_react_app/src/setupTests.js",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/food-blog-showcase-6829-6838/frontend_react_app/.env",
+            "count": 2
+        }
+    ],
+    "top_n_last_10_min_accessed": []
+}
